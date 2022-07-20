@@ -1,0 +1,21 @@
+body {
+  margin-top: 5rem;
+}
+.total {
+  height: 4.5rem;
+  text-align: right;
+  background-color: grey;
+  color: white;
+}
+.input {
+  height: 4rem;
+  background-color: #e0e0e0;
+  text-align: center;
+  border: 0.5px grey solid;
+}
+.side-button {
+  height: 4rem;
+  background-color: #f5923d;
+  color: white;
+  border: 0.5px grey solid;
+}
